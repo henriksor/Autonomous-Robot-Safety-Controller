@@ -15,5 +15,5 @@ Version: 0.1
 | REQ-SAFE-008 | -0.1 °C shall be CriticalLow | SST-008 | TBD |
 | REQ-SAFE-009 | CriticalLow shall remain active at 9.9 °C until recovery threshold is reached | SST-009 | TBD |
 | REQ-SAFE-010 | CriticalLow shall release at 10.0 °C and transition to WarningLow | SST-010 | TBD |
-| REQ-SAFE-011 | SensorFault shall activate after 3 invalid readings in a row | SST-013 | TBD |
-| REQ-SAFE-012 | SensorFault shall release after 9 valid readings in a row | SST-015 | TBD |
+| REQ-SAFE-011 | SensorFault shall activate after 3 invalid readings in a row | SST-011 | TBD |
+| REQ-SAFE-012 | SensorFault shall release after 9 valid readings in a row | SST-012 | TBD |
